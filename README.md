@@ -1,6 +1,7 @@
-# SocialFrame
-
-**SocialFrame** est un framework de réseau social en cours de développement, conçu pour permettre le développement rapide et efficace d'applications web sociales. Avec **SocialFrame**, vous pouvez créer des réseaux sociaux personnalisés avec des fonctionnalités telles que les profils d'utilisateur, les publications, les commentaires, les amitiés, les abonnements et bien plus encore.
+<div align="center">
+  <h1>SocialFrame</h1>
+  <p>Framework de réseau social en cours de développement</p>
+</div>
 
 ---
 
@@ -52,3 +53,4 @@ Sur la page GitHub de votre dépôt, ouvrez une nouvelle pull request pour la br
 Décrivez les modifications que vous avez apportées et attendez les commentaires des autres contributeurs.
 :scroll: Licence
 SocialFrame est distribué sous la licence MIT. Consultez le fichier LICENSE pour plus d'informations.
+
